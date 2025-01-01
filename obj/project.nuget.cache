@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v7VKWvv+1zM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AfiqKhairuddin\\Documents\\dotnetlearn\\ModbusTcpApp\\ModbusTcpApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AfiqKhairuddin\\.nuget\\packages\\nmodbus\\3.0.81\\nmodbus.3.0.81.nupkg.sha512"
+  ],
+  "logs": []
+}

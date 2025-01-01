@@ -1,0 +1,17 @@
+C:\Users\AfiqKhairuddin\Documents\dotnetlearn\ModbusTcpApp\bin\Debug\net9.0\ModbusTcpApp.exe
+C:\Users\AfiqKhairuddin\Documents\dotnetlearn\ModbusTcpApp\bin\Debug\net9.0\ModbusTcpApp.deps.json
+C:\Users\AfiqKhairuddin\Documents\dotnetlearn\ModbusTcpApp\bin\Debug\net9.0\ModbusTcpApp.runtimeconfig.json
+C:\Users\AfiqKhairuddin\Documents\dotnetlearn\ModbusTcpApp\bin\Debug\net9.0\ModbusTcpApp.dll
+C:\Users\AfiqKhairuddin\Documents\dotnetlearn\ModbusTcpApp\bin\Debug\net9.0\ModbusTcpApp.pdb
+C:\Users\AfiqKhairuddin\Documents\dotnetlearn\ModbusTcpApp\obj\Debug\net9.0\ModbusTcpApp.csproj.AssemblyReference.cache
+C:\Users\AfiqKhairuddin\Documents\dotnetlearn\ModbusTcpApp\obj\Debug\net9.0\ModbusTcpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AfiqKhairuddin\Documents\dotnetlearn\ModbusTcpApp\obj\Debug\net9.0\ModbusTcpApp.AssemblyInfoInputs.cache
+C:\Users\AfiqKhairuddin\Documents\dotnetlearn\ModbusTcpApp\obj\Debug\net9.0\ModbusTcpApp.AssemblyInfo.cs
+C:\Users\AfiqKhairuddin\Documents\dotnetlearn\ModbusTcpApp\obj\Debug\net9.0\ModbusTcpApp.csproj.CoreCompileInputs.cache
+C:\Users\AfiqKhairuddin\Documents\dotnetlearn\ModbusTcpApp\obj\Debug\net9.0\ModbusTc.75793AD9.Up2Date
+C:\Users\AfiqKhairuddin\Documents\dotnetlearn\ModbusTcpApp\obj\Debug\net9.0\ModbusTcpApp.dll
+C:\Users\AfiqKhairuddin\Documents\dotnetlearn\ModbusTcpApp\obj\Debug\net9.0\refint\ModbusTcpApp.dll
+C:\Users\AfiqKhairuddin\Documents\dotnetlearn\ModbusTcpApp\obj\Debug\net9.0\ModbusTcpApp.pdb
+C:\Users\AfiqKhairuddin\Documents\dotnetlearn\ModbusTcpApp\obj\Debug\net9.0\ModbusTcpApp.genruntimeconfig.cache
+C:\Users\AfiqKhairuddin\Documents\dotnetlearn\ModbusTcpApp\obj\Debug\net9.0\ref\ModbusTcpApp.dll
+C:\Users\AfiqKhairuddin\Documents\dotnetlearn\ModbusTcpApp\bin\Debug\net9.0\NModbus.dll
